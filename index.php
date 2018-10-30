@@ -1,3 +1,3 @@
 <?php
-echo "denyze";
+echo "denyze"
 ?>
